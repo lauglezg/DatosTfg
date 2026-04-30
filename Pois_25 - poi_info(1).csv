@@ -1,0 +1,24 @@
+poi_id,poi_name,poi_lat,poi_lon,poi_score,poi_cat,poi_visit_time,poi_desc,poi_address
+1,Parque Rural de Teno,"28.342.080.586.573.000,00","-16.850.439.296.709.000,00",4.6,park,240,"Laurel forests, deep ravines & coastal cliffs around a volcanic massif home to rare birds & lizards.",Buenavista del Norte
+2,Punta de Teno,283.419.864,-169.229.928,4.6,nature_preserve,90,Walks & views across a rugged headland with a 1970s tower on the site of a 19th-century lighthouse.,"Punta Teno Lighthouse, Buenavista del Nte."
+3,Parque Puerta de Tierra,283.720.906,-167.653.854,4.3,historical_landmark,45,,"Pl. Juan González de la Torre, 3, Garachico"
+4,Malpaís de Güimar,28.311.999.999.999.900,-16.371,5,mountain_peak,90,,Malpaís de Güímar
+5,Pirámides de Güimar,283.208.138,-164.137.526,3.8,museum,90,"Lava-stone pyramids in a park with displays on the Kon-Tiki expeditions, plus exotic gardens.","C. Chacona, s/n, Güímar"
+6,Parque del Drago,283.665.471,-16.722.216,4.4,garden,60,"Massive, solitary dracaena tree, an icon of Tenerife, estimated to be 1,000 years old.","C. Arcipreste Ossuna, 1, Icod de los Vinos"
+7,Mirador de Masca,283.060.045,-16.840.372.000.000.000,4.7,scenic_spot,60,,"C. la Piedra, Masca"
+8,El Teide,282.962.064,-16.566.141.299.999.900,4.8,tourist_attraction,180,"3,718m active volcano, Spain's highest peak, with a scenic aerial cable car & hiking trails.",Las Cañadas del Teide
+9,Jardín Botánico,284.115.604,-16.535.811.199.999.900,4.6,garden,90,"18th-century botanical gardens with tropical & subtropical plants, including 200-year-old fig tree.","C. Retama, 2, Puerto de la Cruz"
+10,Parque García Sanabria,284.720.365,-16.253.544.599.999.900,4.7,park,60,"Lush, roomy green space opened in 1926 featuring fountains & a large clock made of flowers.",C. Mendez Nuñez
+11,Paisaje Lunar,28.190.025.499.999.900,-16.603.099,4.6,hiking_area,240,,Granadilla de Abona
+12,Cruz del Carmen - Parque Rural de Anaga,28.530.332.899.999.900,-162.804.559,4.6,nature_preserve,120,Hiking trails up to this lookout point that offers panoramic views of the island and Teide mountain.,San Cristóbal de La Laguna
+13,Barranco del Infierno,28.126.299.999.999.900,-167.237.269,4.5,nature_preserve,210,"Scenic hiking trail in a gorge with diverse flora & fauna, plus a waterfall (reservations required).","C. de los Molinos, 46, Costa Adeje"
+14,Sendero del Chinyero,28.284.588.099.999.900,-16.762.425,4.8,hiking_area,150,,Santiago del Teide
+15,Museo Militar de Almeida,28.475.392.499.999.900,-16.247.757.099.999.900,4.7,museum,90,,"C. San Isidro, 2, Santa Cruz de Tenerife"
+16,Museo de Historia de Tenerife,284.895.207,-163.149.336,4.4,museum,90,Former 16th-century residence housing exhibitions on the economic & cultural history of the islands.,"C. San Agustín, 22, La Laguna"
+17,Museo Arqueólogico Puerto de la Cruz,284.170.838,-165.524.724,3.6,museum,45,Small archaeological museum featuring a collection of aboriginal Guanche ceramics & a garden.,"C. del Lomo, 9a, Puerto de la Cruz"
+18,Centro Alfarero Cha Domitila,28.268.549,-16.808.061,3.8,museum,45,,"Calle Ctra. General, 35, Arguayo"
+19,Ecomuseo,28.319.202.399.999.900,-167.980.384,4.6,museum,60,,"TF-373, 1, El Tanque"
+20,Museo Juan Evora,28.212.346,-166.816.635,4.5,museum,60,,"TF-21, Guía de Isora"
+21,Casa del Plátano,283.677.134,-167.215.365,4.6,museum,60,,"C. Hércules, 4, Icod de los Vinos"
+22,La Casa de los Balcones,28.388.333.300.000.000,-165.258.333,4.3,museum,45,"Built in 1632, the House of the Balconies features souvenir shops & folk art by local artisans.","C. San Francisco, 3, La Orotava"
+23,Jardines Marquesado de la Quinta Roja,28.389.502.066.428.600,-1.652.297.481.894.490,4.6,garden,60,"Hillside park with fountains, flowers & an 1800s mausoleum, plus views of the sea & the old town.","C. San Agustín, 8, La Orotava"
