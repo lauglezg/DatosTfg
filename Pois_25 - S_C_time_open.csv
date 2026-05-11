@@ -1,0 +1,34 @@
+poi_id,poi_name,poi_day,poi_open_time,poi_close_time,status
+1,Parque García Sanabria,default,0:00,23:59,open
+2,Mercado Ntra. Señora de África,default,6:00,14:00,open
+2,Mercado Ntra. Señora de África,sunday,7:00,14:00,open
+3,Palmetum,default,10:00,18:00,open
+4,Museo de la Naturaleza y la Arqueología,default,9:00,20:00,open
+4,Museo de la Naturaleza y la Arqueología,monday,10:00,17:00,open
+4,Museo de la Naturaleza y la Arqueología,sunday,10:00,17:00,open
+5,Iglesia Matriz de Nuestra Señora de la Concepción,default,8:30,13:00,open
+5,Iglesia Matriz de Nuestra Señora de la Concepción,default,17:30,20:00,open
+6,Museo Militar de Almeida,monday,,,close
+6,Museo Militar de Almeida,default,9:00,15:00,open
+6,Museo Militar de Almeida,weekend,10:00,14:00,open
+7,Castillo de San Cristóbal,default,10:00,18:00,open
+7,Castillo de San Cristóbal,sunday,,,close
+8,Casa del Carnaval,default,10:00,18:30,open
+9,TEA Tenerife Espacio de las Artes,monday,,,close
+9,TEA Tenerife Espacio de las Artes,default,10:00,20:00,open
+10,Auditorio de Tenerife Adán Martín,default,10:00,17:30,open
+10,Auditorio de Tenerife Adán Martín,saturday,10:00,14:00,open
+10,Auditorio de Tenerife Adán Martín,sunday,,,close
+11,Plaza de España,default,0:00,23:59,open
+12,Parque Marítimo César Manrique,default,10:00,18:00,open
+13,Playa de las Teresitas,default,0:00,23:59,open
+14,Plaza de la Candelaria,default,0:00,23:59,open
+15,Castillo San Juan Bautista,default,0:00,23:59,open
+16,Plaza del Chicharro,default,0:00,23:59,open
+17,Mirador los Campitos,default,0:00,23:59,open
+18,Parroquia de San Francisco de Asís,default,8:30,13:00,open
+18,Parroquia de San Francisco de Asís,default,17:30,20:00,open
+19,Plaza Príncipe de Asturias,default,0:00,23:59,open
+20,Plaza Weyler,default,0:00,23:59,open
+21,Calle Castillo,default,0:00,23:59,open
+22,Muellito de San Andrés,default,0:00,23:59,open
