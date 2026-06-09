@@ -1,0 +1,82 @@
+poi_id,poi_name,poi_day,poi_open_time,poi_close_time,status
+1,Parque García Sanabria,default,0:00,23:59,open
+2,Mercado Ntra. Señora de África,default,6:00,14:00,open
+2,Mercado Ntra. Señora de África,sunday,7:00,14:00,open
+3,Palmetum,default,10:00,18:00,open
+4,Museo de la Naturaleza y la Arqueología,default,9:00,20:00,open
+4,Museo de la Naturaleza y la Arqueología,monday,10:00,17:00,open
+4,Museo de la Naturaleza y la Arqueología,sunday,10:00,17:00,open
+5,Iglesia Matriz de Nuestra Señora de la Concepción,default,8:30,13:00,open
+5,Iglesia Matriz de Nuestra Señora de la Concepción,default,17:30,20:00,open
+6,Museo Militar de Almeida,monday,,,close
+6,Museo Militar de Almeida,default,9:00,15:00,open
+6,Museo Militar de Almeida,weekend,10:00,14:00,open
+7,Castillo de San Cristóbal,default,10:00,18:00,open
+7,Castillo de San Cristóbal,sunday,,,close
+8,Casa del Carnaval,default,10:00,18:30,open
+9,TEA Tenerife Espacio de las Artes,monday,,,close
+9,TEA Tenerife Espacio de las Artes,default,10:00,20:00,open
+10,Auditorio de Tenerife Adán Martín,default,10:00,17:30,open
+10,Auditorio de Tenerife Adán Martín,saturday,10:00,14:00,open
+10,Auditorio de Tenerife Adán Martín,sunday,,,close
+11,Plaza de España,default,0:00,23:59,open
+12,Parque Marítimo César Manrique,default,10:00,18:00,open
+13,Playa de las Teresitas,default,0:00,23:59,open
+14,Plaza de la Candelaria,default,0:00,23:59,open
+15,Castillo San Juan Bautista,default,0:00,23:59,open
+16,Plaza del Chicharro,default,0:00,23:59,open
+17,Mirador los Campitos,default,0:00,23:59,open
+18,Parroquia de San Francisco de Asís,default,8:30,13:00,open
+18,Parroquia de San Francisco de Asís,default,17:30,20:00,open
+19,Plaza Príncipe de Asturias,default,0:00,23:59,open
+20,Plaza Weyler,default,0:00,23:59,open
+21,Calle Castillo,default,0:00,23:59,open
+22,Muellito de San Andrés,default,0:00,23:59,open
+24,Catedral de La Laguna,saturday,10:00,13:45,open
+24,Catedral de La Laguna,friday,,,close
+24,Catedral de La Laguna,sunday,16:30,20:00,open
+24,Catedral de La Laguna,sunday,10:30,13:45,open
+24,Catedral de La Laguna,default,9:00,17:15,open
+24,Catedral de La Laguna,saturday,17:00,19:45,open
+24,Catedral de La Laguna,thursday,,,close
+25,Parroquia Matriz de Nuestra Señora de la Concepción La Laguna,default,10:00,17:00,open
+25,Parroquia Matriz de Nuestra Señora de la Concepción La Laguna,sunday,,,close
+25,Parroquia Matriz de Nuestra Señora de la Concepción La Laguna,saturday,,,close
+26,Museo de Historia de Tenerife,sunday,10:00,17:00,open
+26,Museo de Historia de Tenerife,monday,10:00,17:00,open
+26,Museo de Historia de Tenerife,default,9:00,20:00,open
+27,Teatro Leal,sunday,,,close
+27,Teatro Leal,default,11:00,13:00,open
+27,Teatro Leal,default,18:00,20:00,open
+28,Mercado Municipal de La Laguna,monday,7:00,14:00,open
+28,Mercado Municipal de La Laguna,sunday,7:00,14:00,open
+28,Mercado Municipal de La Laguna,default,6:00,14:00,open
+29,Ermita de San Miguel,saturday,11:00,14:00,open
+29,Ermita de San Miguel,sunday,,,close
+29,Ermita de San Miguel,monday,,,close
+29,Ermita de San Miguel,default,17:00,20:00,open
+29,Ermita de San Miguel,default,11:00,14:00,open
+30,Museo de la Ciencia y el Cosmos,default,9:00,19:00,open
+30,Museo de la Ciencia y el Cosmos,sunday,10:00,17:00,open
+31,Casa Salazar,sunday,,,close
+31,Casa Salazar,default,9:00,14:00,open
+31,Casa Salazar,saturday,,,close
+32,Iglesia Santo Domingo de Guzmán,saturday,18:00,20:00,open
+32,Iglesia Santo Domingo de Guzmán,default,10:00,15:00,open
+32,Iglesia Santo Domingo de Guzmán,default,18:00,20:00,open
+32,Iglesia Santo Domingo de Guzmán,monday,10:00,14:00,open
+32,Iglesia Santo Domingo de Guzmán,monday,18:00,20:00,open
+32,Iglesia Santo Domingo de Guzmán,sunday,10:00,14:00,open
+32,Iglesia Santo Domingo de Guzmán,sunday,18:00,20:00,open
+33,Casa de los Capitanes Generales,saturday,,,close
+33,Casa de los Capitanes Generales,sunday,,,close
+33,Casa de los Capitanes Generales,default,9:00,16:30,open
+34,Calle Obispo Rey Redondo,default,0:00,23:59,open
+35,Calle Herradores,default,0:00,23:59,open
+36,Calle San Agustín,default,0:00,23:59,open
+37,Museo Cayetano Gómez Felipe,sunday,11:00,16:00,open
+37,Museo Cayetano Gómez Felipe,monday,,,close
+37,Museo Cayetano Gómez Felipe,friday,10:00,21:00,open
+37,Museo Cayetano Gómez Felipe,saturday,10:00,21:00,open
+37,Museo Cayetano Gómez Felipe,default,10:00,20:00,open
+38,Plaza del Cristo de La Laguna,default,7:00,20:00,open
