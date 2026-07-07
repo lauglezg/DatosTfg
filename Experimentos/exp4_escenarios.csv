@@ -1,0 +1,16 @@
+escenario,semilla,score,n_pois,n_pois_sc,n_pois_laguna,tiempo_ida_min
+"Jueves, Santa Cruz",29,67.6,15,15,0,0.0
+"Jueves, Santa Cruz",42,67.60000000000001,15,15,0,0.0
+"Jueves, Santa Cruz",71,67.4,15,15,0,0.0
+"Jueves, ambos municipios",29,80.4,18,9,9,0.0
+"Jueves, ambos municipios",42,80.39999999999999,18,9,9,0.0
+"Jueves, ambos municipios",71,80.30000000000001,18,9,9,0.0
+"Domingo, Santa Cruz",29,63.300000000000004,14,14,0,0.0
+"Domingo, Santa Cruz",42,63.400000000000006,14,14,0,0.0
+"Domingo, Santa Cruz",71,63.400000000000006,14,14,0,0.0
+"Jueves, La Laguna",29,61.8,14,0,14,0.0
+"Jueves, La Laguna",42,61.8,14,0,14,0.0
+"Jueves, La Laguna",71,61.8,14,0,14,0.0
+Hotel lejano (interurbano),29,66.8,15,7,8,32.00000000000001
+Hotel lejano (interurbano),42,66.8,15,7,8,32.00000000000001
+Hotel lejano (interurbano),71,62.3,14,6,8,32.00000000000001
