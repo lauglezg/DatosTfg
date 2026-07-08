@@ -8,7 +8,7 @@ El objetivo del proyecto es generar itinerarios turísticos realistas en Santa C
 
 ```text
 .
-├── TFG_LauraGonzalez2026.ipynb
+├── Recomendador_Itinerarios.ipynb
 ├── Pois_38 - S_C_LL_poi_info.csv
 ├── Pois_38 - S_C_LL_time_open.csv
 ├── Pois_22 - S_C_poi_info.csv
@@ -27,7 +27,7 @@ El objetivo del proyecto es generar itinerarios turísticos realistas en Santa C
 
 ## Cuaderno principal
 
-El fichero `TFG_LauraGonzalez2026.ipynb` contiene la implementación completa del prototipo. Incluye:
+El fichero `Recomendador_Itinerarios.ipynb` contiene la implementación completa del prototipo. Incluye:
 
 - carga y preparación de datos GTFS de TITSA y Metrotenerife;
 - carga y normalización de los puntos de interés turístico;
