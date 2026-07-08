@@ -60,6 +60,38 @@ Estos ficheros contienen 38 puntos de interés:
 - 22 en Santa Cruz de Tenerife;
 - 16 en San Cristóbal de La Laguna.
 
+## Fuentes de datos
+
+Los datos utilizados en este proyecto proceden de distintas fuentes abiertas o servicios de consulta de información turística.
+
+### Transporte público
+
+Los datos de transporte público se obtuvieron en formato GTFS desde el portal de datos abiertos de Tenerife:
+
+- **TITSA**: información sobre el sistema de transporte de TITSA en Tenerife.  
+  Fuente original: https://datos.tenerife.es/es/datos/conjuntos-de-datos/informacion-sobre-el-sistema-de-transporte-de-titsa-en-tenerife  
+  Fichero utilizado: `fichero-zip-de-google-transit.zip`  
+  Fecha de descarga utilizada en el proyecto: 03/06/2026.
+
+- **Metrotenerife**: información sobre el sistema de transporte de Metropolitano de Tenerife (tranvía).  
+  Fuente original: https://datos.tenerife.es/en/datos/conjuntos-de-datos/informacion-sobre-el-sistema-de-transporte-de-metropolitano-de-tenerife-tranvia-  
+  Fichero utilizado: `fichero-zip-de-google-transit-tranvia.zip`  
+  Fecha de descarga utilizada en el proyecto: 03/06/2026.
+
+Los ficheros incluidos en este repositorio corresponden a las versiones utilizadas durante el desarrollo y la evaluación experimental, con el fin de facilitar la reproducción de los resultados.
+
+### Puntos de interés turístico
+
+Los datos turísticos incluidos en los CSV de puntos de interés fueron preparados de forma semiautomática. Para su elaboración se consultaron fuentes como:
+
+- **Google Places API**, utilizada como apoyo para obtener y contrastar información de lugares, como nombre, localización, valoración, horarios o datos descriptivos.  
+  Documentación: https://developers.google.com/maps/documentation/places/web-service/overview
+
+- **Foursquare Places API**, utilizada como apoyo para la búsqueda y contraste de puntos de interés y categorías.  
+  Documentación: https://docs.foursquare.com/developer/reference/places-api-overview
+
+Parte de la información turística fue revisada y completada manualmente, especialmente los tiempos estimados de visita, las categorías, las puntuaciones y algunos horarios de apertura. Por este motivo, los CSV incluidos en el repositorio deben entenderse como un conjunto de datos preparado específicamente para este Trabajo de Fin de Grado.
+
 ## Datos de transporte
 
 El proyecto utiliza datos GTFS de dos operadores:
